@@ -3,3 +3,4 @@
 Server/node_modules
 # ignore node_modules in Client
 # echo "node_modules" >> client/.gitignore
+Client/node_modules
